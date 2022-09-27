@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.0.0.7070
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File Split and Merge", "File Split and Merge\File Split and Merge.csproj", "{6EB2D8FD-392D-4477-8A4F-02935C26EB83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EB2D8FD-392D-4477-8A4F-02935C26EB83}.Debug|x86.Build.0 = Debug|x86
+		{6EB2D8FD-392D-4477-8A4F-02935C26EB83}.Debug|x86.ActiveCfg = Debug|x86
+		{6EB2D8FD-392D-4477-8A4F-02935C26EB83}.Release|x86.Build.0 = Release|x86
+		{6EB2D8FD-392D-4477-8A4F-02935C26EB83}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
